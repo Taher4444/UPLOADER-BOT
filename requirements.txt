@@ -1,4 +1,3 @@
-motor
 numpy
 Pillow
 yt-dlp
@@ -7,9 +6,8 @@ hachoir
 olefile
 requests
 tgcrypto
-filetype
 aiofiles
 dnspython
-tldextract
+motor[srv]
 beautifulsoup4
-pyrogram==1.4.12
+pyrogram==1.4.16
